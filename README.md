@@ -8,3 +8,13 @@
 
 ## Qeydlər:
 - Yazdığınız program class based yazılışda olmalıdır.
+
+# Eng:
+## Develop an application with following properties.  
+1. Bot has to answer to the questions of users. For that there have to be file with questions and answers to them. Bot has to look for answer in that filw after user asks question and has to send send it user if there is any answer. User should let to teach Bot if there is no answer for question. User has to add question and answer for it. Question and answer of it must be added to the file. 
+2. Bot has to show todays news and links to user from https://oxu.az/ when he asks for news.
+3. If user asks for currency rates then bot has to show current rates. https://exchangeratesapi.io/ can be used for api.
+4. If user asks for weather forecast bot has to show todays weather forecats. https://openweathermap.org/api can be used as api.
+5. If users asks for goole search then bot has to show him current search results and links.
+## Notes:
+- Application has to be class based.
