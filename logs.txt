@@ -1,0 +1,44 @@
+|exchange|(), {}|1.5173--CAD
+8.6757--HKD
+151.0--ISK
+55.923--PHP
+7.4547--DKK
+345.89--HUF
+26.66--CZK
+1.628--AUD
+4.8393--RON
+10.4588--SEK
+15885.35--IDR
+84.5055--INR
+5.7993--BRL
+77.0055--RUB
+7.572--HRK
+121.54--JPY
+35.339--THB
+1.0793--CHF
+1.5656--SGD
+4.4135--PLN
+1.9558--BGN
+7.5703--TRY
+7.9599--CNY
+10.6777--NOK
+1.7532--NZD
+19.0844--ZAR
+1.1194--USD
+24.2772--MXN
+3.8769--ILS
+0.89065--GBP
+1364.09--KRW
+4.7703--MYR
+|True|
+|google|('azerbaycan',), {}|Azerbaijan - Wikipedia -- link -> https://en.wikipedia.org/wiki/Azerbaijan
+Azerbaycan - Vikipedi -- link -> https://tr.wikipedia.org/wiki/Azerbaycan
+Azerbaycan - Wiktionary -- link -> https://en.wiktionary.org/wiki/Azerbaycan
+#azerbaycan hashtag on Instagram • Photos and Videos -- link -> https://www.instagram.com/explore/tags/azerbaycan
+Azerbaycan - definition of Azerbaycan by The Free Dictionary -- link -> https://www.thefreedictionary.com/Azerbaycan
+Azerbaijan-Azerbaycan - Home | Facebook -- link -> https://www.facebook.com/.../GovernmentOrganization
+Azerbaijan.az -- link -> https://azerbaijan.az
+Azerbaycan Haberleri - Son Dakika Güncel Azerbaycan Gelişmeleri -- link -> https://www.hurriyet.com.tr/haberleri/azerbaycan
+BSS Azerbaycan - Google My Maps -- link -> https://maps.google.com/maps
+Azerbaijan Travel Advice & Safety | Smartraveller -- link -> https://www.smartraveller.gov.au/destinations/europe/azerbaijan
+|True|
